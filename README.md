@@ -27,6 +27,9 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
 * Transmitir datos mediante Bluetooth o Wi-Fi.
 ## 2. Arquitectura del sistema:
 ### Hardware:
+* Esquematico:
+  [TPFinalG1.pdf](https://github.com/user-attachments/files/28976402/TPFinalG1.pdf)
+
 ### Software:
 ## 3. Especificaciones:
 * **Tensión de alimentación:**
