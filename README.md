@@ -58,4 +58,7 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
 * Etapa 3: Configuración de puertos.
 * Etapa 4: Multiplexacion de displays y mostrar datos.
 * Etapa 5: Comunicacion serie con PC.
+## 5. Ensayos, Pruebas y Resultados:
+* Circuito montado en Protoboard, no 100% completo. Se probó iluminar los LDRs para controlar su correcto funcionamiento:
+  <img width="3024" height="4032" alt="IMG_2593" src="https://github.com/user-attachments/assets/f787b5ee-097b-41f4-b4d6-e980924d8201" />
 
