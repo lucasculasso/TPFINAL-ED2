@@ -60,8 +60,11 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
 * Etapa 5: Comunicacion serie con PC.
 ## 5. Ensayos, Pruebas y Resultados:
 * Circuito montado en Protoboard, no 100% completo. Se probó iluminar los LDRs para controlar su correcto funcionamiento:
+  
   <img width="500" height="600" alt="IMG_2593" src="https://github.com/user-attachments/assets/f787b5ee-097b-41f4-b4d6-e980924d8201" />
 * Proceso de impresión de base de sosten de los servos:
   <img width="500" height="600" alt="IMG_2594" src="https://github.com/user-attachments/assets/3d0d443b-e136-4f08-aa2a-ecd16d15b293" />
+
+  
 
 
