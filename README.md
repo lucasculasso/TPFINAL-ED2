@@ -66,7 +66,7 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
   
   <img width="500" height="900" alt="IMG_2594" src="https://github.com/user-attachments/assets/3d0d443b-e136-4f08-aa2a-ecd16d15b293" />
 * Diseño en UltraMaker de base y techo de la estructura:
-  <img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/e9c2462d-e325-4437-8fa2-8b359fa8845c" />
+  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/e9c2462d-e325-4437-8fa2-8b359fa8845c" />
 
   
 
