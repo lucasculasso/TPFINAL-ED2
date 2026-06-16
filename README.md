@@ -30,6 +30,9 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
   [TPFinalG1.pdf](https://github.com/user-attachments/files/28976402/TPFinalG1.pdf)
 
 ### Software:
+* Diagrama de flujo:
+  [Diagrama de Flujo TP.pdf](https://github.com/user-attachments/files/29009096/Diagrama.de.Flujo.TP.pdf)
+
 ## 3. Especificaciones:
 * **Tensión de alimentación:**
   1) 3.3V para el PIC 16F887.
