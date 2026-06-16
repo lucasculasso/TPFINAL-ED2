@@ -8,8 +8,7 @@
 
 ## 1. Descripción y propósito del proytecto:
 El mismo es un seguidor de luz, compuesto por 4 sensores LDR, 2 servomotores SG90 de 180°, dos displays de 7 segmentos cátodo común y un pulsador.
-El objetivo es adquirir las señales de luz captadas por los sensores y dirigir los servomotores hacia la fuente emisora de luz, buscando un balance,
-al mismo tiempo que se envía la posición de los mismos a los displays. Por otra parte, si es presionado el pulsador, se transmite hacia una PC esa misma posición. 
+El objetivo es adquirir las señales de luz captadas por los sensores y dirigir los servomotores hacia la fuente emisora de luz, buscando un balance, al mismo tiempo que se envía la posición de los mismos a los displays. Por otra parte, si es presionado el pulsador, se transmite hacia una PC esa misma posición. Finalmente, si desde la PC es presionada la tecla "C", el sistema retoma la posicion central.
 Este proyecto puede ser extrapolable a la instalación de un panel solar que rastree el movimiento del sol.
 ### Alcances del proyecto:
 * **El sistema puede:**
