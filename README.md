@@ -63,7 +63,10 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
   
   <img width="500" height="600" alt="IMG_2593" src="https://github.com/user-attachments/assets/f787b5ee-097b-41f4-b4d6-e980924d8201" />
 * Proceso de impresión de base de sosten de los servos:
+  
   <img width="500" height="600" alt="IMG_2594" src="https://github.com/user-attachments/assets/3d0d443b-e136-4f08-aa2a-ecd16d15b293" />
+* Diseño en UltraMaker de base y techo de la estructura:
+  <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/e9c2462d-e325-4437-8fa2-8b359fa8845c" />
 
   
 
