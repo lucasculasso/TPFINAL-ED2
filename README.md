@@ -28,10 +28,20 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
 ### Hardware:
 * Esquematico:
   [TPFinalG1.pdf](https://github.com/user-attachments/files/28976402/TPFinalG1.pdf)
+  <img width="1023" height="581" alt="Esquematico" src="https://github.com/user-attachments/assets/486fd3d7-e395-427d-854f-300522d7acc9" />
+
 
 ### Software:
 * Diagrama de flujo:
   [Diagrama de Flujo TP.pdf](https://github.com/user-attachments/files/29009096/Diagrama.de.Flujo.TP.pdf)
+<img width="1280" height="904" alt="WhatsApp Image 2026-06-17 at 17 01 58" src="https://github.com/user-attachments/assets/e35ac8e1-6185-47fa-bc31-ed918050cee0" />
+  <img width="904" height="1280" alt="WhatsApp Image 2026-06-17 at 17 01 59 (1)" src="https://github.com/user-attachments/assets/bf7dba3f-75ae-4d71-a7c1-ad832aed215c" />
+<img width="904" height="1280" alt="WhatsApp Image 2026-06-17 at 17 01 58 (1)" src="https://github.com/user-attachments/assets/5b5c33bf-b997-48a9-9f44-4ff8cbec28ff" />
+
+<img width="1280" height="904" alt="WhatsApp Image 2026-06-17 at 17 01 59 (2)" src="https://github.com/user-attachments/assets/4f2be8a3-5147-4d2d-8190-0bf9bdec40ea" />
+
+<img width="904" height="1280" alt="WhatsApp Image 2026-06-17 at 17 01 59 (3)" src="https://github.com/user-attachments/assets/ce84ef93-d7e0-4816-962e-1e979886a3e5" />
+<img width="904" height="1280" alt="WhatsApp Image 2026-06-17 at 17 01 59" src="https://github.com/user-attachments/assets/0b9a9cb8-b848-4189-8125-5f2d726791eb" />
 
 ## 3. Especificaciones:
 * **Tensión de alimentación:**
