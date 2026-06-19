@@ -17,7 +17,7 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
   3) Transmitir la posicion de los servomotores a PC.
 * **El sistema no puede:**
   1) Rastrear luz 360°, en ambos ejes.
-  2) Funcionar solamente con la alimentacion vía USB.
+  2) Funcionar solamente con la alimentacion vía USB y fuente externa de DC.
 ### Posibles Etapas Siguientes:
 * Armar el circuito en una PCB.
 * En caso de llevarse a paneles solares, usar modo de reposo durante la noche.
