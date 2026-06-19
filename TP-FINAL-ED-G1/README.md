@@ -57,7 +57,7 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
     1) *Oscilador:* XT (Cristal Externo de 4MHz)
     2) *Watchdog Timer (WDT):* OFF
     3) *Master Clear (MCLRE):* ON
-* Perifericos Internos usasdos:
+* Perifericos Internos usados:
   1) Timer0
   2) RB0
   3) Timer1
