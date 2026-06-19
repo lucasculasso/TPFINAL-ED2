@@ -85,6 +85,7 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
 
 * Montaje final:
 <img width="500" height="600" alt="IMG_2599" src="https://github.com/user-attachments/assets/d7e78ff1-32ae-4f6d-b2a1-45e681f8467d" />
+
 * GIF de montaje andando:
 
 
