@@ -61,7 +61,6 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
   1) Timer0
   2) RB0
   3) Timer1
-  4) UART
 * Prioridad de interrupción: Timer0. Debido a la frecuencia con la que interrumpe.
 ## 4. Proceso de Integración y Desarrollo:
 * Etapa 1: Investigación sobre programacion de servomotores.
